@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musakrgzn&show_icons=true&theme=dark&v=1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=musakrgzn&theme=dark)
